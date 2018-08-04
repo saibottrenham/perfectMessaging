@@ -27,5 +27,14 @@ Edit donate.php to put in your Email Settings for SMTP
 
 Make sure you have SMTP enabled in your Gmail Settings
 
-check this link for more Info
+check this link for more Info in terms of Google SMTP Settings
 https://www.arclab.com/en/kb/email/how-to-enable-imap-pop3-smtp-gmail-account.html
+
+
+### Todo
+
+- Some more sophisticated Input Validation would be nice
+
+
+
+
